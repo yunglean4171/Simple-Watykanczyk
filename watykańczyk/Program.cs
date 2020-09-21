@@ -121,7 +121,7 @@ Jan Paweł II zmarł 2 kwietnia 2005 r. 1 maja 2011 został beatyfikowany przez 
                     webClient.DownloadFile("https://i.imgur.com/fmeXf1c.jpg", string.Format(result + "\\papiezak.jpg", Guid.NewGuid().ToString()));
                 }
                 //ustawianie tapety z papajem
-                //Set(result + "\\papiezak.jpg", Style.Stretched);
+                Set(result + "\\papiezak.jpg", Style.Stretched);
 
                  if (!File.Exists(plik))
                  {
