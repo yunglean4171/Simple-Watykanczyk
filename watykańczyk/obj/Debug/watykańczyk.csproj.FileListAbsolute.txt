@@ -1,0 +1,15 @@
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\bin\Debug\watykańczyk.exe.config
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\bin\Debug\watykańczyk.exe
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\bin\Debug\watykańczyk.pdb
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\obj\Debug\watykańczyk.csprojAssemblyReference.cache
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\obj\Debug\watykańczyk.papaj2.resources
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\obj\Debug\watykańczyk.Properties.Resources.resources
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\obj\Debug\watykańczyk.zdjecia_z_papajem.papaj1.resources
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\obj\Debug\watykańczyk.zdjecia_z_papajem.papaj3.resources
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\obj\Debug\watykańczyk.csproj.GenerateResource.cache
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\obj\Debug\watykańczyk.csproj.CoreCompileInputs.cache
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\obj\Debug\watykańczyk.exe
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\obj\Debug\watykańczyk.pdb
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\bin\Debug\NAudio.dll
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\bin\Debug\NAudio.xml
+C:\Users\altai\source\repos\watykańczyk\watykańczyk\obj\Debug\watykańczyk.csproj.CopyComplete
